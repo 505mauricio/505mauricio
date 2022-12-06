@@ -22,7 +22,7 @@ Telecommunication Engineer looking for opportunities as a Back End Developer.
 </div>
 
   
-## What have I worked with so far!  
+## What I have worked with so far!  
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
