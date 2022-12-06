@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello There!
+## Hello There, I'm Mauricio Abrahão!
+Telecommunication Engineer looking for opportunities as a Back End Developer.
 <div>
   <a href="https://github.com/505mauricio">
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=505mauricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
